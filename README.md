@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mochammad Ichsan Firdaus</h1>
+<h1 align="left">Hi 👋, I'm Mochammad Ichsan Firdaus</h1>
 <h3 align="left">I am a Bachelor of Information System, graduate from Bina Nusantara University. I have an interest in Front end Developer.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
