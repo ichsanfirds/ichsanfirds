@@ -7,7 +7,7 @@ I am a Bachelor of Information System, graduate from Bina Nusantara University.
 
 - 🌱 I’m currently learning **JavaScript, HTML, and CSS**
 
-- 🔭 I’m currently studying(bootcamp) at [**dibimbing.id**](https://dibimbing.id/)
+- 🔭 I’m currently looking for internship
 
 - 📫 How to reach me **ichsanfirds27@gmail.com**
 
