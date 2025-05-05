@@ -11,8 +11,6 @@ I am a Bachelor of Information System, graduate from Bina Nusantara University.
 
 - 📫 How to reach me **ichsanfirds27@gmail.com**
 
-- ⚡ Fun fact **i am a Gamer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ichsanfirds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ichsanfirds" height="30" width="40" /></a>
