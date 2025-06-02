@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Mochammad Ichsan Firdaus</h1>
-<h3 align="left">I am a Bachelor of Information System graduate from Bina Nusantara University. I'm currently studying and also interested in Front-End Developer, therefore I'm looking for internships/experience in that field.</h3>
+<h3 align="left">I am a Bachelor of Information System graduate from Bina Nusantara University. I'm currently studying and also interested in Full-Stack Web Developer, therefore I'm looking for internships/experience in that field.</h3>
 
 <!-- 
 I am a Bachelor of Information System, graduate from Bina Nusantara University. 
 -->
-
+<!--
 - 🌱 I’m currently learning **JavaScript, HTML, and CSS**
+-->
 
 - 🔭 I’m currently looking for internship
 
