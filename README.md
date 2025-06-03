@@ -1,14 +1,11 @@
 <h1 align="left">Hi 👋, I'm Mochammad Ichsan Firdaus</h1>
-<h3 align="left">I am a Bachelor of Information System graduate from Bina Nusantara University. I'm currently studying and also interested in Full-Stack Web Developer, therefore I'm looking for internships/experience in that field.</h3>
+<h3 align="left">I am a Bachelor of Information System graduate from Bina Nusantara University. I'm currently studying and also interested in Full Stack Developer, therefore I'm looking for internships/experience in that field.</h3>
 
-<!-- 
-I am a Bachelor of Information System, graduate from Bina Nusantara University. 
--->
-<!--
-- 🌱 I’m currently learning **JavaScript, HTML, and CSS**
--->
+- 🌱 I’m currently learning **NodeJS, ExpressJS, SQL, and ReactJS**.
 
-- 🔭 I’m currently looking for internship
+- 🔭 I’m currently looking for internship.
+
+- ⚡ Fun fact: I love watching Football and Formula 1.
 
 - 📫 How to reach me **ichsanfirds27@gmail.com**
 
@@ -18,7 +15,7 @@ I am a Bachelor of Information System, graduate from Bina Nusantara University.
 <a href="https://instagram.com/ichsanfirds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ichsanfirds" height="30" width="40" /></a>
 </p>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h3>Languages and Tools I Use</h3>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
@@ -28,6 +25,7 @@ I am a Bachelor of Information System, graduate from Bina Nusantara University.
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a></p>
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
